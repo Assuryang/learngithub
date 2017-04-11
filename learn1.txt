@@ -1,1 +1,2 @@
-git is so good that i want to learn it. 
+git is so good that i want to learn it.
+git is also hard to learn . 
